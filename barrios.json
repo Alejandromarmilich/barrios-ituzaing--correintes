@@ -1,0 +1,32 @@
+{
+    "Barrios": [
+      {"id": 1, "nombre": "GENERAL JOSE FRANCISCO DE SAN MARTIN"},
+      {"id": 2, "nombre": "GENERAL MANUEL BELGRANO"},
+      {"id": 3, "nombre": "MBATARA"},
+      {"id": 4, "nombre": "CASCO CENTRICO"},
+      {"id": 5, "nombre": "CONVENCIONALES CONSTITUYENTES"},
+      {"id": 6, "nombre": "TAMBOR DE TACUARÍ"},
+      {"id": 7, "nombre": "SAN CAYETANO"},
+      {"id": 8, "nombre": "DOMINGO FAUSTINO SARMIENTO"},
+      {"id": 9, "nombre": "TABAY"},
+      {"id": 10, "nombre": "BERNARDINO VALLE"},
+      {"id": 11, "nombre": "VILLA LUISA"},
+      {"id": 12, "nombre": "ISLAS MALVINAS"},
+      {"id": 13, "nombre": "PEDRO FERRE"},
+      {"id": 14, "nombre": "CAZADORES CORRENTINOS"},
+      {"id": 15, "nombre": "IBERÁ"},
+      {"id": 16, "nombre": "GRANADEROS DE SAN MARTÍN"},
+      {"id": 17, "nombre": "SANTA RITA DE CASIA"},
+      {"id": 18, "nombre": "SAN FRANCISCO DE ASIS"},
+      {"id": 19, "nombre": "VIRGEN DE ITATÍ"},
+      {"id": 20, "nombre": "GENERAL MADARIAGA"},
+      {"id": 21, "nombre": "PARANÁ"},
+      {"id": 22, "nombre": "SAN ISIDRO"},
+      {"id": 23, "nombre": "SAN JORGE"},
+      {"id": 24, "nombre": "PORTAL DEL SOL"},
+      {"id": 25, "nombre": "LA FLORIDA"},
+      {"id": 26, "nombre": "AGUARÁ - CUÁ"},
+      {"id": 27, "nombre": "DON TOMAS"},
+      {"id": 28, "nombre": "RINCÓN SANTA MARÍA"}
+    ]
+  }
